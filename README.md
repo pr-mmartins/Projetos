@@ -1,6 +1,3 @@
-# Projetos
-Projetos práticos com base em minhas experiências profissionais
-
 
 # Análise de Serviços Operacionais em Equipamentos Elétricos
 
