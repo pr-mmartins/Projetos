@@ -55,4 +55,3 @@ Os dados utilizados neste projeto foram **gerados artificialmente** e não repre
 ## 📎 Autor
 
 Paulo Ricardo Monteiro Martins  
-Estagiário na Enel Distribuição Ceará | Graduando em Ciênc
